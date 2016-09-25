@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qual a sua comida preferida?</string>
+    <string name="comida_preferida">Qual a sua comida preferida?</string>
+    <string name="lasanha">Lasanha</string>
+    <string name="macarrao">Macarrão</string>
+    <string name="pizza">Pizza</string>
+    <string name="escolher">Escolher</string>
+</resources>
